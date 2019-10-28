@@ -5,6 +5,7 @@ class Image extends Component {
         return (
             <div>
                 <img src={this.props.link} />
+                <br></br>
                 <text>Human Flag Tavas</text>
             </div>
         )
